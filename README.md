@@ -2,7 +2,7 @@ How Impedancecalculator.com Compares to Other Microstrip Tools
 
 Website Description: impedancecalculator.com
 
-Impedancecalculator.com （https://impedancecalculator.com/） is an online tool dedicated to calculating the characteristic impedance of a microstrip transmission line. It provides a straightforward and user-friendly interface for engineers, PCB designers, and students to quickly determine this critical parameter for high-frequency circuit design.
+Impedancecalculator.com （https://impedancecalculator.com/ ） is an online tool dedicated to calculating the characteristic impedance of a microstrip transmission line. It provides a straightforward and user-friendly interface for engineers, PCB designers, and students to quickly determine this critical parameter for high-frequency circuit design.
 
 Key Features:
 
